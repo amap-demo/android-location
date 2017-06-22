@@ -8,11 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/LocationModule" />
-            <option value="$PROJECT_DIR$/coordinateconvertertool" />
-            <option value="$PROJECT_DIR$/geofence" />
-            <option value="$PROJECT_DIR$/h5assistant_location" />
-            <option value="$PROJECT_DIR$/locationbase" />
+            <option value="$PROJECT_DIR$/android-location-coordinateconvertertool" />
+            <option value="$PROJECT_DIR$/android-location-geofencedemo" />
+            <option value="$PROJECT_DIR$/android-location-h5assistant" />
+            <option value="$PROJECT_DIR$/android-location-locationdata" />
+            <option value="$PROJECT_DIR$/locationmodule" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Location.iml" filepath="$PROJECT_DIR$/Location.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LocationModule/LocationModule.iml" filepath="$PROJECT_DIR$/LocationModule/LocationModule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/coordinateconvertertool/coordinateconvertertool.iml" filepath="$PROJECT_DIR$/coordinateconvertertool/coordinateconvertertool.iml" />
-      <module fileurl="file://$PROJECT_DIR$/geofence/geofence.iml" filepath="$PROJECT_DIR$/geofence/geofence.iml" />
-      <module fileurl="file://$PROJECT_DIR$/h5assistant_location/h5assistant_location.iml" filepath="$PROJECT_DIR$/h5assistant_location/h5assistant_location.iml" />
-      <module fileurl="file://$PROJECT_DIR$/locationbase/locationbase.iml" filepath="$PROJECT_DIR$/locationbase/locationbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-location-coordinateconvertertool/android-location-coordinateconvertertool.iml" filepath="$PROJECT_DIR$/android-location-coordinateconvertertool/android-location-coordinateconvertertool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-location-geofencedemo/android-location-geofencedemo.iml" filepath="$PROJECT_DIR$/android-location-geofencedemo/android-location-geofencedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-location-h5assistant/android-location-h5assistant.iml" filepath="$PROJECT_DIR$/android-location-h5assistant/android-location-h5assistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-location-locationdata/android-location-locationdata.iml" filepath="$PROJECT_DIR$/android-location-locationdata/android-location-locationdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationmodule/locationmodule.iml" filepath="$PROJECT_DIR$/locationmodule/locationmodule.iml" />
     </modules>
   </component>
 </project>

@@ -12,17 +12,12 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
     }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-    }
-
-    sourceSets {
-        main{
-            jniLibs.srcDirs = ['libs']
         }
     }
 }
@@ -34,5 +29,5 @@ dependencies {
     })
 //    compile 'com.android.support:appcompat-v7:25.1.0'
     testCompile 'junit:junit:4.12'
-    compile project(path: ':LocationModule')
+    compile project(path: ':locationmodule')
 }
