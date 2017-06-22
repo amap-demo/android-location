@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/android-location-geofencedemo/android-location-geofencedemo.iml" filepath="$PROJECT_DIR$/android-location-geofencedemo/android-location-geofencedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-location-h5assistant/android-location-h5assistant.iml" filepath="$PROJECT_DIR$/android-location-h5assistant/android-location-h5assistant.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-location-locationdata/android-location-locationdata.iml" filepath="$PROJECT_DIR$/android-location-locationdata/android-location-locationdata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/locationmodule/locationmodule.iml" filepath="$PROJECT_DIR$/locationmodule/locationmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location/location.iml" filepath="$PROJECT_DIR$/location/location.iml" />
     </modules>
   </component>
 </project>

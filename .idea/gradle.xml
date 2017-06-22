@@ -12,7 +12,7 @@
             <option value="$PROJECT_DIR$/android-location-geofencedemo" />
             <option value="$PROJECT_DIR$/android-location-h5assistant" />
             <option value="$PROJECT_DIR$/android-location-locationdata" />
-            <option value="$PROJECT_DIR$/locationmodule" />
+            <option value="$PROJECT_DIR$/location" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

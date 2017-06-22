@@ -1,1 +1,1 @@
-include ':locationmodule', ':android-location-locationdata', ':android-location-h5assistant', ':android-location-coordinateconvertertool', ':android-location-geofencedemo'
+include ':location', ':android-location-locationdata', ':android-location-h5assistant', ':android-location-coordinateconvertertool', ':android-location-geofencedemo'
