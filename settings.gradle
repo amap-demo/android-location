@@ -1,0 +1,1 @@
+include ':LocationModule', ':locationbase', ':h5assistant_location', ':coordinateconvertertool', ':geofence'
